@@ -44,7 +44,3 @@ Here’s how you can get started with noemt studios:
 - **Comprehensive Tools**: We offer a wide range of tools and functionalities tailored to meet various needs.
 - **Expert Support**: Our dedicated support team is here to help you every step of the way.
 - **Innovation**: We are committed to continuous improvement and innovation to keep you ahead of the curve.
-
-## 📚 Documentation
-
-For detailed information on how to use our platform, please refer to our [Documentation](#) and [FAQs](#).

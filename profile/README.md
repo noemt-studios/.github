@@ -14,7 +14,7 @@ Our platform is designed to offer a wide range of functionalities and support to
 ## Standard Tier
 - **Unlimited Access**: No limits on usage—experience everything our platform has to offer without constraints.
 - **Full Selfbot Access**: Utilize our comprehensive tools and capabilities to manage and deploy selfbots.
-- **Full Auth Bot Access**: Gain complete access to auth bots to enhance your security and automation processes.
+- **Full Auth Bot Access**: Gain complete access to auth bots to back up your servers members.
 - **Direct Support**: Receive personalized support from our expert team to assist with any inquiries or issues.
 - **Bug Fixes**: We prioritize maintaining a bug-free experience with regular updates and fixes.
 

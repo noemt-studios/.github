@@ -17,10 +17,10 @@ A Python package to fetch Skyblock statistics easily.
 The GitHub repository containing Pixly's bot code.
 
 ### ⚡ [scammer-list-v2](https://github.com/noemtdotdev/scammer-list-v2)
-A bot to detect and display scammers.
+A bot like blockhelper, but without the Skyblock Stuff.
 
 ### 🎨 [react-template](https://github.com/noemtdotdev/react-template)
-A forked React template for fast front-end development.
+A React template for faster front-end development.
 
 ### 🔐 [captcha-maker-api](https://github.com/noemtdotdev/captcha-maker-api)
 A simple Python API for generating CAPTCHAs.
@@ -42,5 +42,3 @@ At [bots.noemt.dev](https://bots.noemt.dev), I offer tools to enhance your Minec
 ---
 
 Feel free to explore our repositories and reach out if you have any questions or suggestions. We're always looking to improve and expand our offerings!
-
----

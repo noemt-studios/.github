@@ -1,7 +1,3 @@
-Here's a README template for your GitHub organization page, incorporating the details you've provided:
-
----
-
 # Welcome to noemt studios 👋
 
 noemt studios is a development hub focused on delivering tools and solutions for various platforms. We specialize in Discord bots, Python packages, and JavaScript-based applications.
